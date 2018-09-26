@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.8.22)  22 AUG 2018 10:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.7)  26 SEP 2018 13:17
 entering extended mode
 **./Buren_CV.tex
 (Buren_CV.tex
@@ -6,9 +6,9 @@ LaTeX2e <2018-04-01> patch level 5
 (res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -36,7 +36,7 @@ No auxiliary output files.
 \@columnwidth=\dimen105
 \c@numberofcolumns=\count88
 )
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hanging\hanging.s
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hanging\hanging.s
 ty"
 Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 \h@ngcommawd=\skip44
@@ -48,30 +48,30 @@ Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 \h@ngcolonwd=\skip50
 \h@ngscolonwd=\skip51
 )
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.st
 y"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\colo
 r.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdft
 ex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref
 .sty"
 Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
 
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
 -hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub
 -generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
@@ -112,20 +112,20 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.s
 ty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex
 .sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.
 sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoption
 s.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
@@ -133,7 +133,7 @@ Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 \Hy@linkcounter=\count89
 \Hy@pagecounter=\count90
 
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.d
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.d
 ef"
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -141,7 +141,7 @@ Now handling font encoding PD1 ...
 )
 \Hy@SavedSpaceFactor=\count91
 
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref
 .cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
@@ -153,7 +153,7 @@ Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
 \c@Hy@tempcnt=\count92
- ("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+ ("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -177,13 +177,13 @@ LaTeX Info: Redefining \pageref on input line 6443.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.
 def"
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
 \Fld@listcount=\count97
 \c@bookmark@seq@number=\count98
 
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfil
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfil
 echeck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -194,7 +194,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `colorlinks' set `true' on input line 14.
 Package hyperref Info: Option `breaklinks' set `true' on input line 14.
 
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr
 .sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
@@ -224,7 +224,7 @@ LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.m
 kii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count99
@@ -242,11 +242,11 @@ kii"
 \AtBeginShipoutBox=\box27
 Package hyperref Info: Link coloring ON on input line 36.
 
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.
 sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\BurenA\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettit
+("C:\Users\aburen\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettit
 lestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
@@ -256,50 +256,51 @@ LaTeX Info: Redefining \ref on input line 36.
 LaTeX Info: Redefining \pageref on input line 36.
 LaTeX Info: Redefining \nameref on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
+(Font)              <5> on input line 51.
  [1
 
-{C:/Users/BurenA/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4
-] [5] [6
+{C:/Users/aburen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4
+] [5
+
+] [6
+
+
 
 ] [7
 
+] [8] [9] [10] [11
 
-] [8
-
-] [9] [10] [11] [12
-
-] [13] [14] [15]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 785.
- [16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 785.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 785.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 785.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 785.
+] [12] [13] [14]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 796.
+ [15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 796.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 796.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 796.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 796.
  ) 
 Here is how much of TeX's memory you used:
  5001 strings out of 492973
- 74326 string characters out of 3126249
+ 74341 string characters out of 3126250
  165573 words of memory out of 3000000
  8860 multiletter control sequences out of 15000+200000
  5067 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,12n,43p,494b,415s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/BurenA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmbx10.pfb><C:/Users/BurenA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmbx12.pfb><C:/Users/BurenA/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/BurenA/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/BurenA/AppDa
+ 29i,12n,43p,494b,413s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/aburen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><C:/Users/aburen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><C:/Users/aburen/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/aburen/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/aburen/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
-/BurenA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.p
-fb><C:/Users/BurenA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb><C:/Users/BurenA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/aburen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.p
+fb><C:/Users/aburen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmti10.pfb><C:/Users/aburen/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmtt10.pfb>
-Output written on Buren_CV.pdf (16 pages, 162131 bytes).
+Output written on Buren_CV.pdf (15 pages, 161345 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
+ 120 PDF objects out of 1000 (max. 8388607)
  22 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
